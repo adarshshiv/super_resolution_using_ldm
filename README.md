@@ -12,6 +12,10 @@ The dataset consists of low-resolution and high-resolution image pairs stored in
 - `high_res/`: Contains high-resolution images.
 - `low_res/`: Contains low-resolution images.
 
+## Notebook
+The kaggle notebook can be used for reference:
+https://www.kaggle.com/code/joel2666666666/notebook9611b79011
+
 ## Setup
 
 1. Clone the repository:
